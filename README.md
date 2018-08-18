@@ -28,5 +28,5 @@ numpy 1.14.5
 | task  | valid | test |
 |:------:|:------:|:------:|
 | sequential-mnist |  98.98 | 98.80 |
-| p-mnist | 94.22<br> (94.40 from <br>[Thean&Lasagne](https://github.com/Sunnydreamrain/IndRNN_Theano_Lasagne)) | - |
+| p-mnist | 94.22<br> (94.40 from <br>[Theano&Lasagne](https://github.com/Sunnydreamrain/IndRNN_Theano_Lasagne)) | - |
 | fashion-mnist | 91.60 | - |
